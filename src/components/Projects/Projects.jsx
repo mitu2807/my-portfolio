@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import Logo from "../../Assets/Projects/moneytrail-logo.jpeg";
+import Logo from "../../assets/Projects/moneytrail-logo.jpeg";
 
 function Projects() {
   return (

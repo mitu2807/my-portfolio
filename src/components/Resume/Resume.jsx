@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Mitul_Chaudhari_Resume_V3.pdf";
+import pdf from "../../assets/Mitul_Chaudhari_Resume_V3.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import ResumeContent from "./ResumeContent";
 
